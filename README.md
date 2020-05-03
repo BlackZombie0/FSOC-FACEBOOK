@@ -4,7 +4,7 @@
 
 $ sudo apt install python3-pip
  
-$ git clone https://github.com/FR13NDS13/FBHCK13.git
+$ git clone https://github.com/FSOCIETY-coder-dz/FBHCK13.git
 
 $ cd FBHCK13
 
