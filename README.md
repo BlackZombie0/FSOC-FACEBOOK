@@ -4,12 +4,14 @@
 
 $ sudo apt install python3-pip
  
-$ git clone https://github.com/FSOCIETY-coder-dz/FBHCK13.git
+$ git clone https://github.com/FSOCIETY-coder-dz/FSOC-FACEBOOK.git
 
-$ cd FBHCK13
+$ cd FSOC-FACEBOOK
 
 $ pip3 install -r requirements.txt
 
-$ python3 FB13.py
+$ chmod 777 fsohack.py
+
+$ python3 fsohack.py
 
 أستمتع بي الاداة أعزائي الكرام كان معكم فينكس
