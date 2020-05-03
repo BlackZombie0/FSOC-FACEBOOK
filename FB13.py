@@ -53,19 +53,12 @@ def function(email,passw,i):
 os.system("clear")
 
 i=0
-print("   _____   _____   _____   _____   _   _____   _____  __    __\n")
-print("  |  ___| /  ___/ /  _  \ /  ___| | | | ____| |_   _| \ \  / /\n") 
-print("  | |__   | |___  | | | | | |     | | | |__     | |    \ \/ /\n")  
-print("  |  __|  \___  \ | | | | | |     | | |  __|    | |     \  /\n") 
-print("  | |      ___| | | |_| | | |___  | | | |___    | |     / /\n") 
-print("  |_|     /_____/ \_____/ \_____| |_| |_____|   |_|    /_/\n")     
 
 print(" |-----------[FSOCIETY-Hacker-fb]-----------|\n")
 print(" |------------------------------------------|*\n")
 print(" /------------------------------------------\\\n")
-print("
-print("      
-      print("*  Author - MOUSSA - (Moussa_FSOCIETY_Star) \n\n")
+     
+print("*  Author - MOUSSA - (Moussa_FSOCIETY_Star) \n\n")
 
 print('''
                              ,-.
@@ -92,7 +85,7 @@ print('''
              
                                             
                                       version - v-2.0.0  *
-              
+    Author - MOUSSA-FSOCIETY-ARAB          
                                 ''')
 
 email=input      ('Enter Email of victim : ')
