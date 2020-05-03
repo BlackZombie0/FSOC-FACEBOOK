@@ -61,23 +61,33 @@ print(" /------------------------------------------\\\n")
 print("*  Author - MOUSSA - (Moussa_FSOCIETY_Star) \n\n")
 
 print('''
-                             ,-.
-       ___,---.__          /'|`\          __,---,___
-    ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
-  ,'        |           ~'\     /`~           |        `.
- /      ___//              `. ,'          ,  , \___      \
-|    ,-'   `-.__   _         |        ,    __,-'   `-.    |
-|   /          /\_  `   .    |    ,      _/\          \   |
-\  |           \ \`-.___ \   |   / ___,-'/ /           |  /
- \  \           | `._   `\\  |  //'   _,' |           /  /
-  `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
-     ``       /     \    ,='/ \`=.    /     \       ''
-             |__   /|\_,--.,-.--,--._/|\   __|
-             /  `./  \\`\ |  |  | /,//' \,'  \
-            /   /     ||--+--|--+-/-|     \   \
-           |   |     /'\_\_\ | /_/_/`\     |   |
-            \   \__, \_     `~'     _/ .__/   /
-             `-._,-'   `-._______,-'   `-._,-'
+
+            FSOCIETY-MR.ROBOT
+              .andAHHAbnn.
+           .aAHHHAAUUAAHHHAn.
+          dHP^~"        "~^THb.
+    .   .AHF                YHA.   .
+    |  .AHHb.              .dHHA.  |
+    |  HHAUAAHAbn      adAHAAUAHA  |
+    I  HF~"_____        ____ ]HHH  I
+   HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH
+   HHI HHHD> .andHH  HHUUP^~YHHHH IHH
+   YUI ]HHP     "~Y  P~"     THH[ IUP
+    "  `HK                   ]HH'  "
+        THAn.  .d.aAAn.b.  .dHHP
+        ]HHHHAAUP" ~~ "YUAAHHHH[
+        `HHP^~"  .annn.  "~^YHH'
+         YHb    ~" "" "~    dHF
+          "YAb..abdHHbndbndAP"
+           THHAAb.  .adAHHF
+            "UHHHHHHHHHHU"
+              ]HHUUHHHHHH[
+            .adHHb "HHHHHbn.
+     ..andAAHHHHHHb.AHHHHHHHAAbnn..
+.ndAAHHHHHHUUHHHHHHHHHHUP^~"~^YUHHHAAbn.
+  "~^YUHHP"   "~^YUHHUP"        "^YUP^"
+       ""         "~~"
+      MOUSSA-FSOCIETY-MR.ROBOT-ARAB
 
  *this tool can crack victims' password 
  
